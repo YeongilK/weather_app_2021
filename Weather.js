@@ -3,7 +3,7 @@ import {View, Text, StyleSheet, StatusBar} from "react-native";
 import PropTypes from "prop-types";
 import {MaterialCommunityIcons} from "@expo/vector-icons";
 import { LinearGradient } from 'expo-linear-gradient';
-
+ 
 const weatherOptions = {
     Clear: {
         iconName: "weather-sunny",

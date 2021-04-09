@@ -3,7 +3,7 @@ import {Alert} from "react-native";
 import Loading from "./Loading";
 import * as Location from "expo-location";
 import axios from "axios";
-import Weather from "./Weather";
+import Weather from "./Weather"; 
 
 const API_KEY = "62c4778f00d7ec3a141fd9bb3680060a";
 
