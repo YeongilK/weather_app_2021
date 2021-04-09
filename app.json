@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Weather_app_2021",
+    "name": "weather_app_2021",
     "slug": "weather_app_2021",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "실시간 날씨를 받아오는 어플",
+    "githubUrl": "https://github.com/YeongilK/weather_app_2021"
   }
 }
