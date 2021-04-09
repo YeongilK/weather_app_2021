@@ -1,4 +1,8 @@
+app.json
+babel.config.js
+package.json
 package-lock.json
+
 
 node_modules/**/*
 .expo/*
